@@ -14,7 +14,7 @@ class ChoosieProcess extends Component {
                         console.log(data, details);
                     }}
                     query={{
-                        key: 'AIzaSyDH44dKqH6vI3l222pyIXtWOi9aCqfLSRU',
+                        key: '',
                         language: 'en',
                     }}
                 />
