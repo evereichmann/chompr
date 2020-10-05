@@ -60,3 +60,4 @@ buck-out/
 
 #has key data 
 ./components/ChoosieProcess.js
+.env
