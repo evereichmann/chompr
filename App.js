@@ -17,12 +17,14 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 import Landing from './components/Landing'
+import ChoosieProcess from './components/ChoosieProcess'
 
 const App: () => React$Node = () => {
   return (
       <SafeAreaView>
         <StatusBar barStyle="dark-content" />
-          <Landing />
+          {/* <Landing /> */}
+          <ChoosieProcess/>
       </SafeAreaView>
   );
 };
